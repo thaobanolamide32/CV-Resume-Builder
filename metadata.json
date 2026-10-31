@@ -1,0 +1,6 @@
+{
+  "name": "ResumAI - Intelligent AI Resume & CV Builder",
+  "description": "Create professional, ATS-optimized resumes and CVs for any industry and role powered by Google AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
